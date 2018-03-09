@@ -6,7 +6,7 @@ tags:
 - github
 - git
 categories: git
-thumbnail: https://i.imgur.com/G5iATvb.jpg
+thumbnail: https://i.imgur.com/LmeavCL.jpg
 
 ---
 

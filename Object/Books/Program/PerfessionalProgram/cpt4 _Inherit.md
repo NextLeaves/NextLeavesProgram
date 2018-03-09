@@ -6,7 +6,7 @@ tags:
 - highlevel
 - csharp
 categories: program
-thumbnail: https://i.imgur.com/iI24evE.jpg
+thumbnail: https://i.imgur.com/UpMwJzE.jpg
 
 ---
 

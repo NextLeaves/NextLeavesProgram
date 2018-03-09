@@ -6,7 +6,7 @@ tags:
 - designpattern
 - csharp
 categories: designpattern
-thumbnail: https://i.imgur.com/tU74WP2.jpg
+thumbnail: https://i.imgur.com/WiBfKkJ.jpg
 
 ---
 

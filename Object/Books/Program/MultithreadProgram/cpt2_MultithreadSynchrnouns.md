@@ -6,7 +6,7 @@ tags:
 - multithreading
 - csharp
 categories: program
-thumbnail: https://i.imgur.com/U22DFou.jpg
+thumbnail: https://i.imgur.com/Sp4wwei.jpg
 
 ---
 

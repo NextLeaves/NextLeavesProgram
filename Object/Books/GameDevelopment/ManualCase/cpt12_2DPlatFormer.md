@@ -6,7 +6,7 @@ tags:
 - unity3d
 - 2d
 categories: unity3d
-thumbnail: https://i.imgur.com/tTWr7zA.jpg
+thumbnail: https://i.imgur.com/ws0gAKv.jpg
 
 ---
 

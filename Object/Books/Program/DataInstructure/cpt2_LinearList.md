@@ -6,7 +6,7 @@ tags:
 - data
 - structure
 categories: structure
-thumbnail: https://i.imgur.com/6JTaj3C.jpg
+thumbnail: https://i.imgur.com/xyB1hRW.jpg
 
 ---
 
