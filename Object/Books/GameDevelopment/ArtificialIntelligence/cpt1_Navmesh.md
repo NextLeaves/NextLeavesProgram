@@ -6,7 +6,7 @@ tags:
 - navigation
 - automove
 categories: unity3d
-thumbnail: 
+thumbnail: https://i.imgur.com/majt4Gp.jpg
 
 ---
 
