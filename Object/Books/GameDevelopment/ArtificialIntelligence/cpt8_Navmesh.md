@@ -1,6 +1,6 @@
 ---
 
-title: cpt 1 Navmesh
+title: cpt 8 Navmesh
 date: 3/9/2018 14:00:00 AM 
 tags:
 - navigation
@@ -10,7 +10,7 @@ thumbnail: https://i.imgur.com/mKLM34Y.jpg
 
 ---
 
-# 第一章 导航网格 #
+# 第八章 导航网格 #
 
 * Wrote : 3/9/2018 14:00:00 AM 
 * Name  : NextLeaves
