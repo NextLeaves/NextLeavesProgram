@@ -6,7 +6,7 @@ tags:
 - tip
 - unity3d
 categories: unity3d
-thumbnail: 
+thumbnail: https://i.imgur.com/hofL6LR.png
 
 ---
 
