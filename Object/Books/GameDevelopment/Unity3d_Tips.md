@@ -92,9 +92,3 @@ thumbnail: https://i.imgur.com/hofL6LR.png
 	* Character joint
 	* Configuration joint
 * 可在**OnJointBreakForce(float breakForce)**监听事件
-
-## 3. 持久化数据 ##
-
-### 3.1 PlayerPrefs类 ###
-
-* 
