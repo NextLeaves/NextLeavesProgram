@@ -107,3 +107,65 @@ thumbnail: https://i.imgur.com/HrTZ1Fv.jpg
 		* git pull
 		* git branch --set-upstream dev origin/dev
 		* git pull
+
+## 4. 标签管理 ##
+
+1. **创建标签**
+	* git tag v1.0
+	* git tag v0.9 commitId
+	* git tag
+	* git show v0.9
+	* git tag -a v0.1 -m "version 0.1 released" commitId
+	* git tag -s v0.2 -m "signed version 0.2 released" commitId
+* **操作标签**
+	* git tag -d v0.1
+	* git push origin v1.0
+	* git push origin --tags
+	* 远程删除tag
+		* git tag -d v1.0
+		* git push origin :refs/tags/v1.0
+
+## 5. 使用Github/码云 ##
+
+* git push origin master 
+* git push gitee master
+
+## 6. 自定义Git ##
+
+1. **忽略特殊文件**
+	* .gitignore
+	* git add -f fileName
+		
+`
+
+	# Python:
+	*.py[cod]
+	*.so
+	*.egg
+	*.egg-info
+	dist
+	build
+
+	# Windows:
+	Thumbs.db
+	ehthumbs.db
+	Desktop.ini
+	
+	# Python:
+	*.py[cod]
+	*.so
+	*.egg
+	*.egg-info
+	dist
+	build
+	
+	# My configurations:
+	db.ini
+	deploy_key_rsa
+
+2. **配置别名**
+	* git config --global alias.st status
+	* git config --global alias.unstage 'reset HEAD'
+
+3. **搭建Git服务器**
+	* 
