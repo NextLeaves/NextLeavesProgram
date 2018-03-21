@@ -21,6 +21,8 @@ thumbnail: https://i.imgur.com/hofL6LR.png
 	* 随机数
 	* 数学
 	* 四元数
+* 2. 物理组件
+	* 关节
 
 ---
 
@@ -78,3 +80,21 @@ thumbnail: https://i.imgur.com/hofL6LR.png
 * **Quaternion**类
 	* Slerp()：插值算旋转度
 	* Euler()：欧拉公式，
+
+## 2. 物理组件 ##
+
+### 2.1 关节 ###
+
+* 五种关节模式：
+	* Hinge joint
+	* Fixed joint
+	* Spring joint
+	* Character joint
+	* Configuration joint
+* 可在**OnJointBreakForce(float breakForce)**监听事件
+
+## 3. 持久化数据 ##
+
+### 3.1 PlayerPrefs类 ###
+
+* 
