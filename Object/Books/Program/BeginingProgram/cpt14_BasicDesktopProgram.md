@@ -45,3 +45,20 @@ thumbnail: https://i.imgur.com/XBiiMqE.jpg
 	* 闭合标签
 	* 属性在前标签内
 	* content可以在前后标签之内
+	* **名称空间：**
+		* URL/URI
+		* xmlns:x="" ； 可以不再后面的控件中添加前缀
+	* **代码隐藏文件：**
+
+## 14.2 动手实践 ##	
+
+* WYSIWHG(所见即所得)
+
+---
+
+1. **WPF控件**
+	* GUI和代码文件的打包体
+	* 属性和依赖属性(dependency property)
+	* 触发事件
+		* button：click
+		* listbox：selectionchanged
