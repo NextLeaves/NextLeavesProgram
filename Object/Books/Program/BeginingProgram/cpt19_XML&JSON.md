@@ -138,6 +138,12 @@ thumbnail: https://i.imgur.com/XBiiMqE.jpg
 `
 
 	string jsonmessage=Newtonsoft.Json.JsonConvert.SerializeXmlNode(xmlDocument)
+	string
+
+	//value:
+		//Type:System.String
+		//The JSON string.
+	 xmlmessage=NeWTONSOFT.Json.JsonConvert.DeserialzeXmlNode(string value):
 
 ## 6. 用XPath搜索XML ##
 
